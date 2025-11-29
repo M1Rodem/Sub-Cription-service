@@ -1,0 +1,12 @@
+C:\Sub-Cription-service\SubscriptionManager\SubscriptionManager.Shared\bin\Debug\net9.0\SubscriptionManager.Shared.deps.json
+C:\Sub-Cription-service\SubscriptionManager\SubscriptionManager.Shared\bin\Debug\net9.0\SubscriptionManager.Shared.dll
+C:\Sub-Cription-service\SubscriptionManager\SubscriptionManager.Shared\bin\Debug\net9.0\SubscriptionManager.Shared.pdb
+C:\Sub-Cription-service\SubscriptionManager\SubscriptionManager.Shared\obj\Debug\net9.0\SubscriptionManager.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sub-Cription-service\SubscriptionManager\SubscriptionManager.Shared\obj\Debug\net9.0\SubscriptionManager.Shared.AssemblyInfoInputs.cache
+C:\Sub-Cription-service\SubscriptionManager\SubscriptionManager.Shared\obj\Debug\net9.0\SubscriptionManager.Shared.AssemblyInfo.cs
+C:\Sub-Cription-service\SubscriptionManager\SubscriptionManager.Shared\obj\Debug\net9.0\SubscriptionManager.Shared.csproj.CoreCompileInputs.cache
+C:\Sub-Cription-service\SubscriptionManager\SubscriptionManager.Shared\obj\Debug\net9.0\SubscriptionManager.Shared.sourcelink.json
+C:\Sub-Cription-service\SubscriptionManager\SubscriptionManager.Shared\obj\Debug\net9.0\SubscriptionManager.Shared.dll
+C:\Sub-Cription-service\SubscriptionManager\SubscriptionManager.Shared\obj\Debug\net9.0\refint\SubscriptionManager.Shared.dll
+C:\Sub-Cription-service\SubscriptionManager\SubscriptionManager.Shared\obj\Debug\net9.0\SubscriptionManager.Shared.pdb
+C:\Sub-Cription-service\SubscriptionManager\SubscriptionManager.Shared\obj\Debug\net9.0\ref\SubscriptionManager.Shared.dll

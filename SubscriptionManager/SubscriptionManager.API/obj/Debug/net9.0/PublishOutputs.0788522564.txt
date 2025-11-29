@@ -1,0 +1,13 @@
+C:\Sub-Cription-service\SubscriptionManager\SubscriptionManager.API\obj\Debug\net9.0\PubTmp\Out\SubscriptionManager.API.exe
+C:\Sub-Cription-service\SubscriptionManager\SubscriptionManager.API\obj\Debug\net9.0\PubTmp\Out\appsettings.Development.json
+C:\Sub-Cription-service\SubscriptionManager\SubscriptionManager.API\obj\Debug\net9.0\PubTmp\Out\appsettings.json
+C:\Sub-Cription-service\SubscriptionManager\SubscriptionManager.API\obj\Debug\net9.0\PubTmp\Out\SubscriptionManager.API.dll
+C:\Sub-Cription-service\SubscriptionManager\SubscriptionManager.API\obj\Debug\net9.0\PubTmp\Out\SubscriptionManager.API.deps.json
+C:\Sub-Cription-service\SubscriptionManager\SubscriptionManager.API\obj\Debug\net9.0\PubTmp\Out\SubscriptionManager.API.runtimeconfig.json
+C:\Sub-Cription-service\SubscriptionManager\SubscriptionManager.API\obj\Debug\net9.0\PubTmp\Out\SubscriptionManager.API.pdb
+C:\Sub-Cription-service\SubscriptionManager\SubscriptionManager.API\obj\Debug\net9.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+C:\Sub-Cription-service\SubscriptionManager\SubscriptionManager.API\obj\Debug\net9.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Sub-Cription-service\SubscriptionManager\SubscriptionManager.API\obj\Debug\net9.0\PubTmp\Out\SubscriptionManager.Core.dll
+C:\Sub-Cription-service\SubscriptionManager\SubscriptionManager.API\obj\Debug\net9.0\PubTmp\Out\SubscriptionManager.Shared.dll
+C:\Sub-Cription-service\SubscriptionManager\SubscriptionManager.API\obj\Debug\net9.0\PubTmp\Out\SubscriptionManager.Core.pdb
+C:\Sub-Cription-service\SubscriptionManager\SubscriptionManager.API\obj\Debug\net9.0\PubTmp\Out\SubscriptionManager.Shared.pdb

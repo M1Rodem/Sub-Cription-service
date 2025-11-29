@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Sub-Cription-service\\SubscriptionManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFD58D6-AD61-4CBD-9331-AC8B64B16131}|SubscriptionManager.API\\SubscriptionManager.API.csproj|c:\\sub-cription-service\\subscriptionmanager\\subscriptionmanager.api\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDFD58D6-AD61-4CBD-9331-AC8B64B16131}|SubscriptionManager.API\\SubscriptionManager.API.csproj|solutionrelative:subscriptionmanager.api\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFD58D6-AD61-4CBD-9331-AC8B64B16131}|SubscriptionManager.API\\SubscriptionManager.API.csproj|c:\\sub-cription-service\\subscriptionmanager\\subscriptionmanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDFD58D6-AD61-4CBD-9331-AC8B64B16131}|SubscriptionManager.API\\SubscriptionManager.API.csproj|solutionrelative:subscriptionmanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFD58D6-AD61-4CBD-9331-AC8B64B16131}|SubscriptionManager.API\\SubscriptionManager.API.csproj|c:\\sub-cription-service\\subscriptionmanager\\subscriptionmanager.api\\extensions\\applicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDFD58D6-AD61-4CBD-9331-AC8B64B16131}|SubscriptionManager.API\\SubscriptionManager.API.csproj|solutionrelative:subscriptionmanager.api\\extensions\\applicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFD58D6-AD61-4CBD-9331-AC8B64B16131}|SubscriptionManager.API\\SubscriptionManager.API.csproj|c:\\sub-cription-service\\subscriptionmanager\\subscriptionmanager.api\\subscriptionmanager.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FDFD58D6-AD61-4CBD-9331-AC8B64B16131}|SubscriptionManager.API\\SubscriptionManager.API.csproj|solutionrelative:subscriptionmanager.api\\subscriptionmanager.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFD58D6-AD61-4CBD-9331-AC8B64B16131}|SubscriptionManager.API\\SubscriptionManager.API.csproj|c:\\sub-cription-service\\subscriptionmanager\\subscriptionmanager.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FDFD58D6-AD61-4CBD-9331-AC8B64B16131}|SubscriptionManager.API\\SubscriptionManager.API.csproj|solutionrelative:subscriptionmanager.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD88C16E-DD76-44E7-AECA-BA840635DD82}|SubscriptionManager.Infrastructure\\SubscriptionManager.Infrastructure.csproj|c:\\sub-cription-service\\subscriptionmanager\\subscriptionmanager.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD88C16E-DD76-44E7-AECA-BA840635DD82}|SubscriptionManager.Infrastructure\\SubscriptionManager.Infrastructure.csproj|solutionrelative:subscriptionmanager.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66012CA-57A3-47CA-85A6-A7BAE6712100}|SubscriptionManager.Core\\SubscriptionManager.Core.csproj|c:\\sub-cription-service\\subscriptionmanager\\subscriptionmanager.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F66012CA-57A3-47CA-85A6-A7BAE6712100}|SubscriptionManager.Core\\SubscriptionManager.Core.csproj|solutionrelative:subscriptionmanager.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD88C16E-DD76-44E7-AECA-BA840635DD82}|SubscriptionManager.Infrastructure\\SubscriptionManager.Infrastructure.csproj|c:\\sub-cription-service\\subscriptionmanager\\subscriptionmanager.infrastructure\\subscriptionmanager.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BD88C16E-DD76-44E7-AECA-BA840635DD82}|SubscriptionManager.Infrastructure\\SubscriptionManager.Infrastructure.csproj|solutionrelative:subscriptionmanager.infrastructure\\subscriptionmanager.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66012CA-57A3-47CA-85A6-A7BAE6712100}|SubscriptionManager.Core\\SubscriptionManager.Core.csproj|c:\\sub-cription-service\\subscriptionmanager\\subscriptionmanager.core\\entities\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F66012CA-57A3-47CA-85A6-A7BAE6712100}|SubscriptionManager.Core\\SubscriptionManager.Core.csproj|solutionrelative:subscriptionmanager.core\\entities\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66012CA-57A3-47CA-85A6-A7BAE6712100}|SubscriptionManager.Core\\SubscriptionManager.Core.csproj|c:\\sub-cription-service\\subscriptionmanager\\subscriptionmanager.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F66012CA-57A3-47CA-85A6-A7BAE6712100}|SubscriptionManager.Core\\SubscriptionManager.Core.csproj|solutionrelative:subscriptionmanager.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66012CA-57A3-47CA-85A6-A7BAE6712100}|SubscriptionManager.Core\\SubscriptionManager.Core.csproj|c:\\sub-cription-service\\subscriptionmanager\\subscriptionmanager.core\\entities\\invoiceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F66012CA-57A3-47CA-85A6-A7BAE6712100}|SubscriptionManager.Core\\SubscriptionManager.Core.csproj|solutionrelative:subscriptionmanager.core\\entities\\invoiceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66012CA-57A3-47CA-85A6-A7BAE6712100}|SubscriptionManager.Core\\SubscriptionManager.Core.csproj|c:\\sub-cription-service\\subscriptionmanager\\subscriptionmanager.core\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F66012CA-57A3-47CA-85A6-A7BAE6712100}|SubscriptionManager.Core\\SubscriptionManager.Core.csproj|solutionrelative:subscriptionmanager.core\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66012CA-57A3-47CA-85A6-A7BAE6712100}|SubscriptionManager.Core\\SubscriptionManager.Core.csproj|c:\\sub-cription-service\\subscriptionmanager\\subscriptionmanager.core\\entities\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F66012CA-57A3-47CA-85A6-A7BAE6712100}|SubscriptionManager.Core\\SubscriptionManager.Core.csproj|solutionrelative:subscriptionmanager.core\\entities\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66012CA-57A3-47CA-85A6-A7BAE6712100}|SubscriptionManager.Core\\SubscriptionManager.Core.csproj|c:\\sub-cription-service\\subscriptionmanager\\subscriptionmanager.core\\entities\\subscriptionitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F66012CA-57A3-47CA-85A6-A7BAE6712100}|SubscriptionManager.Core\\SubscriptionManager.Core.csproj|solutionrelative:subscriptionmanager.core\\entities\\subscriptionitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66012CA-57A3-47CA-85A6-A7BAE6712100}|SubscriptionManager.Core\\SubscriptionManager.Core.csproj|c:\\sub-cription-service\\subscriptionmanager\\subscriptionmanager.core\\entities\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F66012CA-57A3-47CA-85A6-A7BAE6712100}|SubscriptionManager.Core\\SubscriptionManager.Core.csproj|solutionrelative:subscriptionmanager.core\\entities\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66012CA-57A3-47CA-85A6-A7BAE6712100}|SubscriptionManager.Core\\SubscriptionManager.Core.csproj|c:\\sub-cription-service\\subscriptionmanager\\subscriptionmanager.core\\entities\\place.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F66012CA-57A3-47CA-85A6-A7BAE6712100}|SubscriptionManager.Core\\SubscriptionManager.Core.csproj|solutionrelative:subscriptionmanager.core\\entities\\place.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD88C16E-DD76-44E7-AECA-BA840635DD82}|SubscriptionManager.Infrastructure\\SubscriptionManager.Infrastructure.csproj|c:\\sub-cription-service\\subscriptionmanager\\subscriptionmanager.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD88C16E-DD76-44E7-AECA-BA840635DD82}|SubscriptionManager.Infrastructure\\SubscriptionManager.Infrastructure.csproj|solutionrelative:subscriptionmanager.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A05CB1-393C-4BEF-A019-410CDBEA2177}|SubscriptionManager.Shared\\SubscriptionManager.Shared.csproj|c:\\sub-cription-service\\subscriptionmanager\\subscriptionmanager.shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A05CB1-393C-4BEF-A019-410CDBEA2177}|SubscriptionManager.Shared\\SubscriptionManager.Shared.csproj|solutionrelative:subscriptionmanager.shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationBuilderExtensions.cs",
+              "DocumentMoniker": "C:\\Sub-Cription-service\\SubscriptionManager\\SubscriptionManager.API\\Extensions\\ApplicationBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "SubscriptionManager.API\\Extensions\\ApplicationBuilderExtensions.cs",
+              "ToolTip": "C:\\Sub-Cription-service\\SubscriptionManager\\SubscriptionManager.API\\Extensions\\ApplicationBuilderExtensions.cs",
+              "RelativeToolTip": "SubscriptionManager.API\\Extensions\\ApplicationBuilderExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T13:36:48.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Sub-Cription-service\\SubscriptionManager\\SubscriptionManager.API\\Extensions\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "SubscriptionManager.API\\Extensions\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Sub-Cription-service\\SubscriptionManager\\SubscriptionManager.API\\Extensions\\ServiceExtensions.cs",
+              "RelativeToolTip": "SubscriptionManager.API\\Extensions\\ServiceExtensions.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T13:36:27.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Sub-Cription-service\\SubscriptionManager\\SubscriptionManager.API\\Program.cs",
+              "RelativeDocumentMoniker": "SubscriptionManager.API\\Program.cs",
+              "ToolTip": "C:\\Sub-Cription-service\\SubscriptionManager\\SubscriptionManager.API\\Program.cs",
+              "RelativeToolTip": "SubscriptionManager.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T13:35:39.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Sub-Cription-service\\SubscriptionManager\\SubscriptionManager.API\\appsettings.json",
+              "RelativeDocumentMoniker": "SubscriptionManager.API\\appsettings.json",
+              "ToolTip": "C:\\Sub-Cription-service\\SubscriptionManager\\SubscriptionManager.API\\appsettings.json",
+              "RelativeToolTip": "SubscriptionManager.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-29T13:35:24.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SubscriptionManager.Infrastructure",
+              "DocumentMoniker": "C:\\Sub-Cription-service\\SubscriptionManager\\SubscriptionManager.Infrastructure\\SubscriptionManager.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "SubscriptionManager.Infrastructure\\SubscriptionManager.Infrastructure.csproj",
+              "ToolTip": "C:\\Sub-Cription-service\\SubscriptionManager\\SubscriptionManager.Infrastructure\\SubscriptionManager.Infrastructure.csproj",
+              "RelativeToolTip": "SubscriptionManager.Infrastructure\\SubscriptionManager.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-29T13:26:22.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Sub-Cription-service\\SubscriptionManager\\SubscriptionManager.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SubscriptionManager.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Sub-Cription-service\\SubscriptionManager\\SubscriptionManager.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SubscriptionManager.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAkwAcAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T13:34:56.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InvoiceItem.cs",
+              "DocumentMoniker": "C:\\Sub-Cription-service\\SubscriptionManager\\SubscriptionManager.Core\\Entities\\InvoiceItem.cs",
+              "RelativeDocumentMoniker": "SubscriptionManager.Core\\Entities\\InvoiceItem.cs",
+              "ToolTip": "C:\\Sub-Cription-service\\SubscriptionManager\\SubscriptionManager.Core\\Entities\\InvoiceItem.cs",
+              "RelativeToolTip": "SubscriptionManager.Core\\Entities\\InvoiceItem.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T13:29:02.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Sub-Cription-service\\SubscriptionManager\\SubscriptionManager.Core\\Entities\\Invoice.cs",
+              "RelativeDocumentMoniker": "SubscriptionManager.Core\\Entities\\Invoice.cs",
+              "ToolTip": "C:\\Sub-Cription-service\\SubscriptionManager\\SubscriptionManager.Core\\Entities\\Invoice.cs",
+              "RelativeToolTip": "SubscriptionManager.Core\\Entities\\Invoice.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T13:28:54.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "History.cs",
+              "DocumentMoniker": "C:\\Sub-Cription-service\\SubscriptionManager\\SubscriptionManager.Core\\Entities\\History.cs",
+              "RelativeDocumentMoniker": "SubscriptionManager.Core\\Entities\\History.cs",
+              "ToolTip": "C:\\Sub-Cription-service\\SubscriptionManager\\SubscriptionManager.Core\\Entities\\History.cs",
+              "RelativeToolTip": "SubscriptionManager.Core\\Entities\\History.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T13:28:30.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SubscriptionItem.cs",
+              "DocumentMoniker": "C:\\Sub-Cription-service\\SubscriptionManager\\SubscriptionManager.Core\\Entities\\SubscriptionItem.cs",
+              "RelativeDocumentMoniker": "SubscriptionManager.Core\\Entities\\SubscriptionItem.cs",
+              "ToolTip": "C:\\Sub-Cription-service\\SubscriptionManager\\SubscriptionManager.Core\\Entities\\SubscriptionItem.cs",
+              "RelativeToolTip": "SubscriptionManager.Core\\Entities\\SubscriptionItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T13:28:15.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Subscription.cs",
+              "DocumentMoniker": "C:\\Sub-Cription-service\\SubscriptionManager\\SubscriptionManager.Core\\Entities\\Subscription.cs",
+              "RelativeDocumentMoniker": "SubscriptionManager.Core\\Entities\\Subscription.cs",
+              "ToolTip": "C:\\Sub-Cription-service\\SubscriptionManager\\SubscriptionManager.Core\\Entities\\Subscription.cs",
+              "RelativeToolTip": "SubscriptionManager.Core\\Entities\\Subscription.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T13:28:02.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Sub-Cription-service\\SubscriptionManager\\SubscriptionManager.Core\\Entities\\Application.cs",
+              "RelativeDocumentMoniker": "SubscriptionManager.Core\\Entities\\Application.cs",
+              "ToolTip": "C:\\Sub-Cription-service\\SubscriptionManager\\SubscriptionManager.Core\\Entities\\Application.cs",
+              "RelativeToolTip": "SubscriptionManager.Core\\Entities\\Application.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T13:27:40.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Place.cs",
+              "DocumentMoniker": "C:\\Sub-Cription-service\\SubscriptionManager\\SubscriptionManager.Core\\Entities\\Place.cs",
+              "RelativeDocumentMoniker": "SubscriptionManager.Core\\Entities\\Place.cs",
+              "ToolTip": "C:\\Sub-Cription-service\\SubscriptionManager\\SubscriptionManager.Core\\Entities\\Place.cs",
+              "RelativeToolTip": "SubscriptionManager.Core\\Entities\\Place.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T13:27:28.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Sub-Cription-service\\SubscriptionManager\\SubscriptionManager.Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "SubscriptionManager.Core\\Entities\\User.cs",
+              "ToolTip": "C:\\Sub-Cription-service\\SubscriptionManager\\SubscriptionManager.Core\\Entities\\User.cs",
+              "RelativeToolTip": "SubscriptionManager.Core\\Entities\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwA4AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T13:27:06.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SubscriptionManager.API",
+              "DocumentMoniker": "C:\\Sub-Cription-service\\SubscriptionManager\\SubscriptionManager.API\\SubscriptionManager.API.csproj",
+              "RelativeDocumentMoniker": "SubscriptionManager.API\\SubscriptionManager.API.csproj",
+              "ToolTip": "C:\\Sub-Cription-service\\SubscriptionManager\\SubscriptionManager.API\\SubscriptionManager.API.csproj",
+              "RelativeToolTip": "SubscriptionManager.API\\SubscriptionManager.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-29T13:22:48.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Sub-Cription-service\\SubscriptionManager\\SubscriptionManager.Shared\\Class1.cs",
+              "RelativeDocumentMoniker": "SubscriptionManager.Shared\\Class1.cs",
+              "ToolTip": "C:\\Sub-Cription-service\\SubscriptionManager\\SubscriptionManager.Shared\\Class1.cs",
+              "RelativeToolTip": "SubscriptionManager.Shared\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T13:19:17.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Sub-Cription-service\\SubscriptionManager\\SubscriptionManager.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "SubscriptionManager.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Sub-Cription-service\\SubscriptionManager\\SubscriptionManager.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "SubscriptionManager.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T13:19:07.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Sub-Cription-service\\SubscriptionManager\\SubscriptionManager.Core\\Class1.cs",
+              "RelativeDocumentMoniker": "SubscriptionManager.Core\\Class1.cs",
+              "ToolTip": "C:\\Sub-Cription-service\\SubscriptionManager\\SubscriptionManager.Core\\Class1.cs",
+              "RelativeToolTip": "SubscriptionManager.Core\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T13:18:53.123Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
