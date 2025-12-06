@@ -9,6 +9,7 @@ public class ApplicationDbContext : DbContext
 
     // DbSet'ы для всех наших таблиц
     public DbSet<User> Users => Set<User>();
+    public DbSet<AuthUser> AuthUsers => Set<AuthUser>();
     public DbSet<Place> Places => Set<Place>();
     public DbSet<Application> Applications => Set<Application>();
     public DbSet<Subscription> Subscriptions => Set<Subscription>();
@@ -37,6 +38,15 @@ public class ApplicationDbContext : DbContext
                   .WithMany(a => a.Subscriptions)
                   .HasForeignKey(s => s.ApplicationId)
                   .OnDelete(DeleteBehavior.Cascade);
+        });
+
+        modelBuilder.Entity<AuthUser>(entity =>
+        {
+            entity.HasKey(u => u.Id);
+
+            entity.HasIndex(u => u.Email).IsUnique();
+            entity.HasIndex(u => u.GoogleId).IsUnique();
+            entity.HasIndex(u => u.YandexId).IsUnique();
         });
 
         // Конфигурация для SubscriptionItem

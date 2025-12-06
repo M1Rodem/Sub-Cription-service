@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C2J96MTzLk4=",
+  "dgSpecHash": "Ftzr+jgXGFk=",
   "success": true,
   "projectFilePath": "C:\\Sub-Cription-service\\SubscriptionManager\\SubscriptionManager.Shared\\SubscriptionManager.Shared.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\user1\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.11\\microsoft.netcore.app.ref.9.0.11.nupkg.sha512",
-    "C:\\Users\\user1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.11\\microsoft.windowsdesktop.app.ref.9.0.11.nupkg.sha512",
-    "C:\\Users\\user1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.11\\microsoft.aspnetcore.app.ref.9.0.11.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

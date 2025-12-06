@@ -17,10 +17,69 @@ namespace SubscriptionManager.Infrastructure.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "9.0.0")
+                .HasAnnotation("ProductVersion", "10.0.0")
                 .HasAnnotation("Relational:MaxIdentifierLength", 63);
 
             NpgsqlModelBuilderExtensions.UseIdentityByDefaultColumns(modelBuilder);
+
+            modelBuilder.Entity("AuthUser", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uuid");
+
+                    b.Property<DateTime>("CreatedAt")
+                        .HasColumnType("timestamp with time zone");
+
+                    b.Property<string>("DodoISAccessToken")
+                        .HasColumnType("text");
+
+                    b.Property<string>("DodoISId")
+                        .HasColumnType("text");
+
+                    b.Property<string>("DodoISRefreshToken")
+                        .HasColumnType("text");
+
+                    b.Property<DateTime?>("DodoISTokenExpires")
+                        .HasColumnType("timestamp with time zone");
+
+                    b.Property<string>("DodoISUnitId")
+                        .HasColumnType("text");
+
+                    b.Property<string>("Email")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.Property<string>("GoogleId")
+                        .HasColumnType("text");
+
+                    b.Property<DateTime>("LastLogin")
+                        .HasColumnType("timestamp with time zone");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.Property<string>("Role")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.Property<string>("YandexId")
+                        .HasColumnType("text");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("Email")
+                        .IsUnique();
+
+                    b.HasIndex("GoogleId")
+                        .IsUnique();
+
+                    b.HasIndex("YandexId")
+                        .IsUnique();
+
+                    b.ToTable("AuthUsers");
+                });
 
             modelBuilder.Entity("SubscriptionManager.Core.Entities.Application", b =>
                 {

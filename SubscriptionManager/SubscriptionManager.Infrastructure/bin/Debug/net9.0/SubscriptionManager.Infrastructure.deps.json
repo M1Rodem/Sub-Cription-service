@@ -578,6 +578,9 @@
         }
       },
       "SubscriptionManager.Core/1.0.0": {
+        "dependencies": {
+          "SubscriptionManager.Shared": "1.0.0"
+        },
         "runtime": {
           "SubscriptionManager.Core.dll": {
             "assemblyVersion": "1.0.0.0",

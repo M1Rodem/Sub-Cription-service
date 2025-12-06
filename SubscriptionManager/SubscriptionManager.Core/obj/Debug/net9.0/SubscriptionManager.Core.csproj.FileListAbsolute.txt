@@ -10,3 +10,7 @@ C:\Sub-Cription-service\SubscriptionManager\SubscriptionManager.Core\obj\Debug\n
 C:\Sub-Cription-service\SubscriptionManager\SubscriptionManager.Core\obj\Debug\net9.0\refint\SubscriptionManager.Core.dll
 C:\Sub-Cription-service\SubscriptionManager\SubscriptionManager.Core\obj\Debug\net9.0\SubscriptionManager.Core.pdb
 C:\Sub-Cription-service\SubscriptionManager\SubscriptionManager.Core\obj\Debug\net9.0\ref\SubscriptionManager.Core.dll
+C:\Sub-Cription-service\SubscriptionManager\SubscriptionManager.Core\obj\Debug\net9.0\SubscriptionManager.Core.csproj.AssemblyReference.cache
+C:\Sub-Cription-service\SubscriptionManager\SubscriptionManager.Core\bin\Debug\net9.0\SubscriptionManager.Shared.dll
+C:\Sub-Cription-service\SubscriptionManager\SubscriptionManager.Core\bin\Debug\net9.0\SubscriptionManager.Shared.pdb
+C:\Sub-Cription-service\SubscriptionManager\SubscriptionManager.Core\obj\Debug\net9.0\Subscrip.F072A2AA.Up2Date
